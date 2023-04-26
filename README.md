@@ -6,10 +6,11 @@ Over the past decade, ride-hailing services have reshaped how people travel in c
 
 The competition problem falls into the category of a repeated game with an infinite number of periods (i.e.,~matching time window). At the end of each period, platform $i$ may rely on the previously observed information when it chooses the joint strategy (action) for the next repetition. Hence, we analyze the problem in three different settings,
 
-\begin{enumerate}
-    \item \textbf{Observable static (OS) competition}, in which platform $i$ is assumed to have complete visibility (i.e.,~access to perfect information) of platform $j$ at every time step, and the decision-making of platform $j$ is irrelevant with that of platform $i$. Although inapplicable in a real-world competition, this setting would lay the methodological foundation for solving other realistic settings.
-    \item \textbf{Non-observable static (NOS) competition}, in which platform $i$ has no knowledge of the decision made by platform $j$ before making its own decision, and the decision-making of platform $j$ is irrelevant with that of platform $i$.
-    \item \textbf{Non-observable dynamic (NOD) competition}, in which platform $i$ does not know the decision made by platform $j$ before making its own decision, while platform $j$ is an intelligent player and changes its strategy according to market dynamics in real-time. 
+- **Observable static (OS) competition**, in which platform $i$ is assumed to have complete visibility (i.e.,~access to perfect information) of platform $j$ at every time step, and the decision-making of platform $j$ is irrelevant with that of platform $i$. Although inapplicable in a real-world competition, this setting would lay the methodological foundation for solving other realistic settings.
+- 
+- **Non-observable static (NOS) competition**, in which platform $i$ has no knowledge of the decision made by platform $j$ before making its own decision, and the decision-making of platform $j$ is irrelevant with that of platform $i$.
+- 
+- **Non-observable dynamic (NOD) competition**, in which platform $i$ does not know the decision made by platform $j$ before making its own decision, while platform $j$ is an intelligent player and changes its strategy according to market dynamics in real-time. 
 \end{enumerate}
 
 
