@@ -6,6 +6,6 @@ In this work, both passengers or drivers opt for multi-homing, in which drivers 
 
 The OS competition assumes fare, waging, and matching decisions  $\theta_{0,2}$, $\theta_{1,2}$, $\theta_{2,2}$, $\lambda_{2}$, $\kappa_{1,2}$, and $\kappa_{2,2}$ are completely available to platform 1 at each time step. Accordingly, $f_{o,d,2}$, $w_{o,d,2}$, $x_{o,d,2}$, $u_{o,d,2}$, and $v_{o,d,2}$ are also completely visible to platform 1.
 
-We presented a humegenuous case in this [jupiter](//01%20Example%20(OS%20Competition).ipynb).
+We presented a humegenuous case in this ([//01%20Example%20(OS%20Competition).ipynb](https://github.com/marco-yue/Duoploy-Ridesourcing-Competition/blob/main/01%20Example%20(OS%20Competition).ipynb)).
 
 
