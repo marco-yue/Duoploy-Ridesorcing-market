@@ -19,10 +19,11 @@ We presented a humegenuous case in this ([Example of OS Competition](https://git
 
 ## Nonobservable static competition
 
-The strategy taken by platform 2 is not available for platform 1 in the NOS competition. Instead of finding provably optimal strategies in the OS competition, the NOS competition requires a different model and approach. The problem of NOS competition can be modelled as a continuum-armed bandit (CAB) problem \citep{agrawal1995continuum}. We assume that an arm applied in the CAB problem is a quadruple strategy set taken by platform 2, $a=\{ \hat{\theta}_{0},\hat{\theta}_{1},\hat{\theta}_{2},\hat{\lambda}\} \in A$, where $A$ is an action space to constrain the value of arms.
+The strategy taken by platform 2 is not available for platform 1 in the NOS competition. Instead of finding provably optimal strategies in the OS competition, the NOS competition requires a different model and approach. The problem of NOS competition can be modelled as a continuum-armed bandit (CAB) problem \citep{agrawal1995continuum}. We assume that an arm applied in the CAB problem is a quadruple strategy set taken by platform 2,
 
 $$
     a_{n}=\{\hat{\theta}_{0,n},\hat{\theta}_{1,n},\hat{\theta}_{2,n},\hat{\lambda}_{n}\}
 $$
 
+We presented a humegenuous case in this ([Example of NOS Competition](https://github.com/marco-yue/Duoploy-Ridesourcing-Competition/blob/main/02%20Example%20(NOS%20Competition).ipynb)).
 
